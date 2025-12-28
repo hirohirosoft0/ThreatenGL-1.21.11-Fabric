@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "lol.richy.threatengl.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "ThreatenGLMixin"
+  ],
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
